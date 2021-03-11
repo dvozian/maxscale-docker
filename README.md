@@ -145,3 +145,7 @@ Once complete, to remove the cluster and maxscale containers:
 ```
 docker-compose down -v
 ```
+# Sources
+https://mariadb.com/kb/en/mariadb-maxscale-14/maxscale-simple-sharding-with-two-servers/
+https://mariadb.com/kb/en/mariadb-maxscale-14/maxscale-routers-schemarouter-router/
+https://dzone.com/articles/schema-sharding-with-mariadb-maxscale-21-part-2
